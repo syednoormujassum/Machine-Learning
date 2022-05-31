@@ -1,0 +1,2 @@
+{"results": [{"id": "400","date": "2019-03-10","time": "14:20:28","acked": false,"corrected": false,"severity": 2,"slot": 0,"trapID": 110,"instance": 3,"desc": "Frozen Alert on Input6","hostIp": "1.11.1.13","prouct": "3V","notes": "","hostIpDeviceLabel": "Map Data","productDeviceLabel": "PNX-AD  [7]","myHashCode": -6754,"instanceDesc": "PQR 826__302","selfCorrected": false,"oid": "1.3.6","varbinds": ["ABC 826", "2ndValue", "", "4th Value", "", "", "", "", "", "", "", "", "", "", "", ""]}]}
+
